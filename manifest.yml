@@ -1,0 +1,4 @@
+applications:
+- name: docker-dash
+  memory: 640M
+
